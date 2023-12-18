@@ -121,3 +121,62 @@ img{
   background-color: #0282f9;
 }
 
+#footer-up{
+
+  background-image: url('/resources/img/footer-bg.jpg');
+  background-size: contain;
+
+h5 {
+    color: white;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+}
+
+a{
+    text-decoration: none;
+    color: grey;
+    font-size: 0.7rem;
+}
+li{
+  line-height: 15px;
+
+}
+.big-img {
+    width: 350px;
+    position: absolute;
+}
+.position{
+    position: relative;
+    bottom:50px;
+}
+}
+
+
+#footer-down button {
+    border: 1px solid #0282f9;
+    background-color: transparent;
+    color: white;
+    padding: 8px;
+    text-transform: uppercase;
+
+}
+
+#footer-down li {
+    list-style: none;
+}
+#footer-down a {
+    text-decoration: none;
+}
+#footer-down h5 {
+    color: #0282f9;
+}
+#footer-down .bg-footer-down {
+    background-color: #303030;
+
+}
+#footer-down .position{
+    position: relative;
+    padding-bottom: 10px;
+
+}
+
