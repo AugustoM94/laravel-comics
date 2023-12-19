@@ -59,7 +59,7 @@
 </section>
 <section id="footer-down">
 <div>
-    <div class="bg-footer-down mb-5 position">
+    <div class="bg-footer-down position">
         <div class="container  justify-content-space-around ">
        <div class="row">
          <div class="col-6 d-flex align-items-center">
