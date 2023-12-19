@@ -19,7 +19,7 @@
                 <ul class="d-flex margin-check text-center ">
 
                     <li><a href="#">Characters</a></li>
-                    <li><a href="#">Comics</a></li>
+                    <li><a href="{{ route('comic.index') }}">Comics</a></li>
                     <li><a href="#">Movies</a></li>
                     <li><a href="#">TV</a></li>
                     <li><a href="#">Collectibles</a></li>
