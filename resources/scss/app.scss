@@ -72,10 +72,11 @@ input {
     object-position: 100% 0;
 }
 }
-#main{
 .bg-main{
 background-color: #000;
 }
+#main{
+
 h5 {
         color: white;
 }
@@ -192,3 +193,25 @@ color: rgba(255, 255, 255, 0.4)
 .txt-green{
 color:rgba(200,255,155,0.4)
 }
+.bg-grey{
+background-color: #f6f6f6;
+}
+
+
+#main-down img {
+    width: 80px;
+    height: 60px;
+}
+#main-down li {
+    list-style: none;
+}
+#main-down span {
+    color: white;
+    text-transform: uppercase;
+    font-size: 0.7rem;
+
+}
+#main-down {
+  background-color: grey;
+}
+

@@ -50,7 +50,7 @@
       </div>
          </div>
 
-        <div class="col-6 position">
+        <div class="col-6 ">
           <img class="big-img" src="{{Vite::asset('/resources/img/dc-logo-bg.png') }}" alt="logo">
         </div>
       </div>
